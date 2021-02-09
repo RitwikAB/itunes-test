@@ -14,7 +14,7 @@ import { ConnectedRouter } from 'connected-react-router';
 import { PersistGate } from 'redux-persist/integration/react';
 import history from 'utils/history';
 import 'sanitize.css/sanitize.css';
-
+//test comment
 // Import root app
 import App from 'containers/App';
 
